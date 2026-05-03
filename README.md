@@ -1,4 +1,4 @@
-# Password Generator v2
+# Password Generator
 
 CLI password generator with customizable options.
 
@@ -10,5 +10,5 @@ CLI password generator with customizable options.
 
 ## Usage
 ```bash
-python3 password_generator_v2.py
+python3 password_generator.py
 ```
